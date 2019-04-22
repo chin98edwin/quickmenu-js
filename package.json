@@ -1,0 +1,22 @@
+{
+  "name": "quickmenu",
+  "version": "0.0.1",
+  "description": "foo",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "chin98edwin",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
+}
