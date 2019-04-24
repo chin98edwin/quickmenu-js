@@ -16,7 +16,12 @@
   ],
   "author": "chin98edwin",
   "license": "MIT",
-  "dependencies": {
-    "jest": "^24.7.1"
+  "devDependencies": {
+    "eslint": "latest",
+    "jest": "latest"
+  },
+  "jest": {
+    "verbose": false,
+    "testPathIgnorePatterns": []
   }
 }
